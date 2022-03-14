@@ -1,1 +1,1 @@
-# Reshma_Hotel_Researvation_System
+# Hotel_Researvation_System
